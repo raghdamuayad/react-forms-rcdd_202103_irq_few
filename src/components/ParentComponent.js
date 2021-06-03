@@ -16,7 +16,7 @@ this.setState({
  render(){
 return(
 <div>
-<Form 
+<Form
 formData = {this.state}
 handleChange = {this.handleChange}
 />
